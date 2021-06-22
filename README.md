@@ -1,1 +1,2 @@
 # Attendance-Recorder
+Attendance is something which is very important in the life of a student and keeping a record of it for the staff. So, here I worked on a project in which the attendance record can be analysed by the teachers for easy use and this project can be used to automate the attendance record entry for the staff by itself using the .bat files and windows task scheduler. The main goal of this project is to analyse the given attendance dataset according to the daily/monthly/yearly information.
